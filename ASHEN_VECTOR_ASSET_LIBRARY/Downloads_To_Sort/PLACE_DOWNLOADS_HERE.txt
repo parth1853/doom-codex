@@ -1,0 +1,1 @@
+Download selected packs directly from their creator pages and extract them here. Keep each archive in its own named subfolder and preserve its included license/readme files. This folder intentionally starts empty; no paywalled or uncertain-license assets are bundled.
